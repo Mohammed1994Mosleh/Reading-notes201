@@ -1,8 +1,8 @@
 # Reading-notes201
 | Syntax  | link|
 | ----------- | ----------- |
-| Read:01     | [link]('README.md')|
-| Read02     | [link]('class02.md')|
+| Read:01     | [link](README.md)|
+| Read02     | [link](class02.md)|
 
 ## html and css
 
