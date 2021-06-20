@@ -3,8 +3,8 @@
 ## Headings types :
 HTML has six "levels" of
 headings:
-//<h1> is used for main headings
-//<h2> is used for subheadings
+<h1> is used for main headings
+<h2> is used for subheadings
 If there are further sections
 under the subheadings then the
 <h3> element is used, and so
@@ -15,11 +15,11 @@ on...
 
 ## Bold & Italic:
 By enclosing words in the tags
-//<b> and </b> we can make
+<b> and </b> we can make
 characters appear bold.
 
 By enclosing words in the tags
-//<i> and </i> we can make
+<i> and </i> we can make
 characters appear italic.
 
 ![bold](https://developersdesire.files.wordpress.com/2014/09/biu-page-0.jpg)
@@ -33,21 +33,21 @@ mathematical concepts like
 raising a number to a power such
 as 22.
 
-//<sub>: The <sub> element is used to
+<sub>: The <sub> element is used to
 contain characters that should
 be subscript. It is commonly
 used with foot notes or chemical
 formulas such as H20.
 
 ## Line Breaks & horizantal rule:
-//<br />:As you have already seen, the
+<br />:As you have already seen, the
 browser will automatically show
 each new paragraph or heading
 on a new line. But if you wanted
 to add a line break inside the
 middle of a paragraph you can
 use the line break tag <br />.
-//<hr />:To create a break between
+<hr />:To create a break between
 themes — such as a change of
 topic in a book or a new scene
 in a play — you can add a
