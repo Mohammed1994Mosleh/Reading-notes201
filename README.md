@@ -2,6 +2,7 @@
 | Syntax  | link|
 | ----------- | ----------- |
 | Read:01     | [link]('README.md')|
+| Read02     | [link]('README.md')|
 
 ## html and css
 
