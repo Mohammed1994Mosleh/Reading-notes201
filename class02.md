@@ -25,7 +25,7 @@ characters appear italic.
 ![bold](https://developersdesire.files.wordpress.com/2014/09/biu-page-0.jpg)
 
 ## Superscript & subscript:
-<sup>: The <sup> element is used
+//<sup>: The <sup> element is used
 to contain characters that
 should be superscript such
 as the suffixes of dates or
