@@ -14,3 +14,4 @@ following two attributes:# Reading-notes201
 | class04 | [link](https://mohammed1994mosleh.github.io/Reading-notes201/class04)    |
 | class05 | [link](https://mohammed1994mosleh.github.io/Reading-notes201/class05)    |
 | class06 | [link](https://mohammed1994mosleh.github.io/Reading-notes201/class06)    |
+| class07 | [link](https://mohammed1994mosleh.github.io/Reading-notes201/class07)    |
