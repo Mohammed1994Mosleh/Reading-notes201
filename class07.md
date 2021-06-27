@@ -5,23 +5,23 @@ A table represents information in a grid format.
 Examples of tables include financial reports, TV
 schedules, and sports results
 ![Table in html](https://gocoding.org/wp-content/uploads/2020/06/HTML-Table-Syntax.png)
-<table>
-The <table> element is used
+"<table>
+ <table> element is used
 to create a table. The contents
 of the table are written out row
 by row.
-<tr> 
+"<tr> "
 You indicate the start of each
-row using the opening <tr> tag.
+row using the opening//<tr>" tag.
 (The tr stands for table row.)
-<td>
+<tdg>
 Each cell of a table is
-represented using a <td>
+represented using a <tdh>
 element. (The td stands for
 table data.)
-<th>
-The <th> element is used just
-like the <td> element but its
+<th*>
+The <th-> element is used just
+like the <td+> element but its
 purpose is to represent the
 heading for either a column or
 a row. (The th stands for table
