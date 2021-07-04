@@ -1,4 +1,15 @@
 # Reading class12:
+## Char.js:
+Charts are far better for displaying data visually than tables and have the added benefit that no one is ever going to press-gang them into use as a layout tool. They’re easier to look at and convey data quickly, but they’re not always easy to create.
+![chart.js](https://cdn.mos.cms.futurecdn.net/S5bicwPe8vbP9nt3iwAwwi.jpg)
+- Creating a Chart:
+It's easy to get started with Chart.js. All that's required is the script included in your page along with a single canvas node to render the chart.
+
+
+
+
+
+
 ### The <canvas> element:
 At first sight a canvas looks like the img element, with the only clear difference being that it doesn't have the src and alt attributes. 
 ![canvas](https://miro.medium.com/max/1016/1*YkKgLfAJc1Q_ln737HkHYA.png)
